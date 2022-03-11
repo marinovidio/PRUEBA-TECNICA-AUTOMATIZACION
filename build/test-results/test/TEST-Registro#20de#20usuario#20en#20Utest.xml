@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Registro de usuario en Utest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-11T04:53:18" hostname="DESKTOP-K2LH9O5" time="51.176">
+<testsuite name="Registro de usuario en Utest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-11T06:07:57" hostname="DESKTOP-K2LH9O5" time="48.346">
   <properties/>
-  <testcase name="Registro de ovidio en la pagina de Utest" classname="Registro de usuario en Utest" time="51.176"/>
+  <testcase name="Registro de ovidio en la pagina de Utest" classname="Registro de usuario en Utest" time="48.346"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[mar. 10, 2022 11:53:19 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+  <system-err><![CDATA[mar. 11, 2022 1:07:58 A. M. org.openqa.selenium.remote.DesiredCapabilities chrome
 INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --lang=en,--disable-popup-b..., goog:chromeOptions: {args: [--lang=en, --disable-popup-blocking, --disable-download-notifica..., --start-maximized, --test-type, --ignore-certificate-errors, --allow-running-insecure-co..., --disable-translate, --always-authorize-plugins, --disable-extensions], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
-Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 32282
+Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 29014
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-mar. 10, 2022 11:53:22 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+mar. 11, 2022 1:08:02 A. M. org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
